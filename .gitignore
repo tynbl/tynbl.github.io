@@ -1,0 +1,13 @@
+__pycache__/
+
+# PYCHARM
+.idea
+
+# MAC
+.DS_Store
+
+# DB file
+db.sqlite3
+
+# model sql file
+migrations
