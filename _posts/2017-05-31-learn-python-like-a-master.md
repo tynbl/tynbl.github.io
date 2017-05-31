@@ -1,3 +1,11 @@
+---
+layout: post
+title: Learn Python Like a Master
+---
+
+{{ page.title }}
+================
+
 > 行为学习理论：70%时间练习，20%与人时间沟通讨论，10%时间看书学知识
 
 ## 第一章 我与编程的过往
