@@ -1,3 +1,5 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
 # Python全栈之路系列之文件操作
 
 Python可以对文件进行查看、创建等功能，可以对文件内容进行添加、修改、删除，且所使用到的函数在Python3.5.x为`open`，在Python2.7.x同时支持`file`和`open`，但是在3.5.x系列移除了`file`函数。
