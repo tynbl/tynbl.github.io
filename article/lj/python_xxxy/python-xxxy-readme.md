@@ -1,5 +1,7 @@
 # 小象学院Python数据分析课程学习笔记
 
+[课程网址](http://www.chinahadoop.cn/classroom/48/courses)
+
 -------------------------
 
 ## 第一课
