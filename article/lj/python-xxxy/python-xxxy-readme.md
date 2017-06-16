@@ -1,6 +1,6 @@
 # Python数据分析学习笔记
 
-[![课程Logo](https://raw.githubusercontent.com/tynbl/tynbl.github.io/master/article/lj/python-xxxy/xxxy-python-course.png "课程网址")](http://www.chinahadoop.cn/classroom/48/courses) 
+[![课程Logo](xxxy-python-course.jpg "课程网址")](http://www.chinahadoop.cn/classroom/48/courses) 
 
 -------------------------
 
