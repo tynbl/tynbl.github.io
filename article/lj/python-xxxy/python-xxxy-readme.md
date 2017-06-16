@@ -1,6 +1,6 @@
 # Python数据分析学习笔记
 
-[![课程网址](xxxy-python-course.png "课程网址")](http://www.chinahadoop.cn/classroom/48/courses) 
+[<img src="./xxxy-python-course.png" width="250" alt="课程Logo" align=center title="课程网址" />](http://www.chinahadoop.cn/classroom/48/courses) 
 
 -------------------------
 
