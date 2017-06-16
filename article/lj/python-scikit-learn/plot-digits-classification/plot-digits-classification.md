@@ -109,7 +109,7 @@ plt.show()
     
 
 
-![png](output_2_1.png)
+![png](output-2-1.png)
 
 
 
