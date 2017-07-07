@@ -1,6 +1,6 @@
 # scikit-learn
 
-[![官网](./docs/images/scikit-learn-logo-small.png "官网")](http://scikit-learn.org/stable/index.html)  
+[![官网](../docs/images/scikit-learn-logo-small.png "官网")](http://scikit-learn.org/stable/index.html)  
 *Machine Learning in Python*
 
 -------------------------
