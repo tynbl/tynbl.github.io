@@ -109,7 +109,7 @@ plt.show()
     
 
 
-![png](docs/images/plot-digits-classification.png)
+![png](./docs/images/plot-digits-classification.png)
 
 
 
