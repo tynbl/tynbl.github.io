@@ -64,7 +64,7 @@ drawScatterDiagram(r"data1.csv")
     
 
 
-![png](docs/images/linear-regression.png)
+![png](../images/linear-regression.png)
 
 
 
