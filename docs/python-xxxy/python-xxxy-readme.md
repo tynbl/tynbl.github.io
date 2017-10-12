@@ -1,4 +1,4 @@
-# Python数据分析学习笔记
+# Python数据分析升级版2期学习笔记
 
 [![课程Logo](../images/xxxy-python-course.jpg "课程网址")](http://www.chinahadoop.cn/classroom/48/courses) 
 
