@@ -1,5 +1,6 @@
 # 欢迎来到凌剑的博客!
 
+- 2017-11-13 [Python学习备忘录](docs/python-misc/memo)
 - 2017-10-12 [Python数据分析升级版3期学习笔记](docs/python-xxxy-3/python-xxxy-3-readme)
 - 2017-06-22 [Python Machine Learning](http://nbviewer.jupyter.org/github/rasbt/python-machine-learning-book/tree/master/code)
 - 2017-06-19 [Pandas的DataFrame如何按指定list排序](docs//python-gzh/pandas-sorting-by-a-custom-list)
