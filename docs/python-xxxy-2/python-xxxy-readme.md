@@ -5,11 +5,11 @@
 -------------------------
 
 ## 赠课一
-1. [IPython基础](00/01/ipython_basic.ipynb)
-2. [Python基础](00/01/python_basic.ipynb)
-3. [Python数据结构](00/01/python_data_structure.ipynb)
-4. [Python高级特性](00/01/python_advanced_feature.ipynb)
-5. [Python高级函数](00/01/python_higher_order_functions.ipynb)
+1. [IPython基础](00/01/ipython_basic)
+2. [Python基础](00/01/python_basic)
+3. [Python数据结构](00/01/python_data_structure)
+4. [Python高级特性](00/01/python_advanced_feature)
+5. [Python高级函数](00/01/python_higher_order_functions)
 
 ## 第一课
 1. [Python3新特性](01-01-py3)
