@@ -2,6 +2,6 @@
 
 -------------------------
 
-1. [线性回归](p3_linear_regression_project.html)
-2. [泰坦尼克号乘客样本数据分析报告](p4_investigate_titanic_data.html)
+1. [线性回归](p3_linear_regression_project)
+2. [泰坦尼克号乘客样本数据分析报告](p4_investigate_titanic_data)
 3. [预测波士顿房价](p5_boston_housing)
