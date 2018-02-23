@@ -1,11 +1,7 @@
-# Udacity 机器学习入门课程完成项目
-
-[![课程Logo](icon-nd009-basic "课程网址")](https://cn.udacity.com/course/machine-learning-engineer-nanodegree--nd009-cn-basic) 
+# [![课程Logo](icon-nd009-basic.png "课程网址")](https://cn.udacity.com/course/machine-learning-engineer-nanodegree--nd009-cn-basic) Udacity 机器学习入门课程完成项目
 
 -------------------------
 
-1. [项目1](p1-instruction-zh.html)
-2. [项目2](p2_fresh_tomatoes.html)
-3. [项目3](p3_linear_regression_project.html)
-4. [项目4](p4_investigate_titanic_data.html)
-5. [项目5](p5_boston_housing)
+1. [线性回归](p3_linear_regression_project.html)
+2. [泰坦尼克号乘客样本数据分析报告](p4_investigate_titanic_data.html)
+3. [预测波士顿房价](p5_boston_housing)
