@@ -8,6 +8,7 @@
 - 2017-06-03 [Python 数据分析升级版2期学习笔记](docs/python-xxxy-2/readme.md)
 
 学习链接：  
+- [莫烦Python](https://github.com/MorvanZhou/tutorials)  
 - [《Python Data Science Handbook》](https://github.com/jakevdp/PythonDataScienceHandbook)  
 - [《Python Machine Learning》在线代码](http://nbviewer.jupyter.org/github/rasbt/python-machine-learning-book/tree/master/code)  
 - [杨培文的Github](https://github.com/ypwhs)  
