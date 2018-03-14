@@ -58,6 +58,29 @@ print(reduce(lambda x, y: x + y, foo))
     139
     
 
+[Python NumPy 计算欧氏距离（Euclidean Distance）](http://blog.topspeedsnail.com/archives/954)
+
+
+```python
+import numpy as np
+
+# 样本数据
+coords1 = [1, 2, 3]
+coords2 = [4, 5, 6]
+np_c1 = np.array(coords1)
+np_c2 = np.array(coords2)
+
+# NumPy 内建函数
+np.linalg.norm(np_c1 - np_c2)
+```
+
+
+
+
+    5.196152422706632
+
+
+
 
 ```python
 
